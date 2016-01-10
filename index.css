@@ -1,0 +1,137 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  width: 900px;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  background-color: white;
+  font-size: 50px;
+  margin-right: 15px;
+  padding: 0 auto;
+  display: inline;
+  text-align: center;
+}
+
+nav {
+  float: center;
+  width: 100%;
+  margin: 0 auto;
+
+}
+
+nav ul {
+  padding: 0px;
+  list-style-type: ;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  display: inline-block;
+  font-size: 20px;
+}
+
+a {
+  color: teal;
+  text-decoration: none;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+a:visited {
+  color: teal;
+  text-decoration: none;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+  font-family: Times;
+  font-weight: bold;
+}
+
+section {
+  font-family: Arial;
+  color: black;
+  display: inline-block;
+}
+
+section h2 {
+  font-size: 30px;
+  text-align: center;
+  margin-right: 15px;
+}
+
+section img {
+  width: 400px;
+  border: 1px solid black;
+  display: block;
+  margin: 0 auto;
+
+}
+
+.head p {
+  font-size: 10px;
+  text-align: center;
+  margin-right: 15px;
+}
+
+.overview h3 {
+  text-align: center;
+  font-size: 28px;
+  margin-right: 15px;
+}
+
+.overview p {
+  text-align: center;
+  margin-right: 15px;
+  font-size: 18px;
+}
+
+.hikes {
+  float: left;
+}
+.hikes img {
+  border: 1px solid black;
+  display: center;
+  margin: 0 auto;
+  width: 400px;
+  height: 250px;
+}
+
+.hikes h4 {
+  text-align: center;
+}
+
+.biking {
+  float: right;
+}
+
+.biking img {
+  border: 1px solid black;
+  display: center;
+  margin-right: 15px;
+  width: 400px;
+  height: 250px;
+}
+
+.biking h4 {
+  text-align: center;
+}
+
+footer {
+  width: 100%;
+  background-color: ;
+  color: ;
+  clear: both;
+  display: block;
+  text-align: center;
+  margin-right: 15px;
+}
